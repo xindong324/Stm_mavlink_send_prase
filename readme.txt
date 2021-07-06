@@ -1,36 +1,4 @@
-ÊµÑéÆ÷²Ä:
-	Ì½Ë÷ÕßSTM32F4¿ª·¢°å
-	
-ÊµÑéÄ¿µÄ:
-	Ñ§Ï°´®¿ÚµÄÊ¹ÓÃ(½ÓÊÕÓë·¢ËÍ)
-	
-Ó²¼þ×ÊÔ´:
-	1,DS0(Á¬½ÓÔÚPF9) 
-	2,´®¿Ú1(²¨ÌØÂÊ:115200,PA9/PA10Á¬½ÓÔÚ°åÔØUSB×ª´®¿ÚÐ¾Æ¬CH340ÉÏÃæ)
-	
-	
-ÊµÑéÏÖÏó:
-	±¾ÊµÑé,STM32Í¨¹ý´®¿Ú1ºÍÉÏÎ»»ú¶Ô»°£¬STM32ÔÚÊÕµ½ÉÏÎ»»ú·¢¹ýÀ´µÄ×Ö·û´®(ÒÔ»Ø³µ»»
-	ÐÐ½áÊø)ºó£¬Ô­Ô­±¾±¾µÄ·µ»Ø¸øÉÏÎ»»ú¡£ÏÂÔØºó£¬DS0ÉÁË¸£¬ÌáÊ¾³ÌÐòÔÚÔËÐÐ£¬Í¬Ê±Ã¿¸ô
-	Ò»¶¨Ê±¼ä£¬Í¨¹ý´®¿Ú1Êä³öÒ»¶ÎÐÅÏ¢µ½µçÄÔ¡£ 
-	
-×¢ÒâÊÂÏî:
-	1,µçÄÔ¶Ë´®¿Úµ÷ÊÔÖúÊÖ²¨ÌØÂÊ±ØÐëÊÇ115200.
-	2,ÇëÊ¹ÓÃXCOM/SSCOM´®¿Úµ÷ÊÔÖúÊÖ,ÆäËû´®¿ÚÖúÊÖ¿ÉÄÜ¿ØÖÆDTR/RTSµ¼ÖÂMCU¸´Î»/³ÌÐò²»ÔËÐÐ
-	3,´®¿ÚÊäÈë×Ö·û´®ÒÔ»Ø³µ»»ÐÐ½áÊø.
-	4,ÇëÓÃUSBÏßÁ¬½ÓÔÚUSB_232,ÕÒµ½USB×ª´®¿Úºó²âÊÔ±¾Àý³Ì.
-	5,P6µÄPA9/PA10±ØÐëÍ¨¹ýÌøÏßÃ±Á¬½ÓÔÚRXD/TXDÉÏ.
-
-
-					ÕýµãÔ­×Ó@ALIENTEK
-					2014-10-24
-					¹ãÖÝÊÐÐÇÒíµç×Ó¿Æ¼¼ÓÐÏÞ¹«Ë¾
-					µç»°£º020-38271790
-					´«Õæ£º020-36773971
-					¹ºÂò£ºhttp://shop62103354.taobao.com
-					http://shop62057469.taobao.com
-					¹«Ë¾ÍøÕ¾£ºwww.alientek.com
-					¼¼ÊõÂÛÌ³£ºwww.openedv.com
+æ³¨æ„ï¼ŒåŽŸæœ¬æ­£ç‚¹åŽŸå­çš„ä¸²å£æŽ¥æ”¶ä¸­æ–­å¤„ç†å‡½æ•°ä¸­ä¼šåˆ¤æ–­æ˜¯å¦æ”¶åˆ°å›žè½¦ç¬¦ 0x0a 0x0f, åœ¨mavlinkæ”¶å‘ä¸­éœ€è¦ä¿®æ”¹ä¸‹
 					
 					
 					
